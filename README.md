@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Langages : Python <br>Outils : Git, VS Code</p>
+<p align="left">Langages : Python <br>Tools : Git, VS Code</p>
 
 ###
 
@@ -78,15 +78,3 @@
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
